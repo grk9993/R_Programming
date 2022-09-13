@@ -3,6 +3,7 @@ title: "Learning R"
 author: "Rohan Karn"
 date: "2022-09-12"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
 ---
